@@ -7,10 +7,19 @@ By <a href="http://austinlouden.com">Austin Louden</a> / <a href="https://www.pi
 
 !!!
 
-### Overview
+### One way to think of language learning
 
-1. Theory
-2. Tools
+1. Duolingo, Rosetta Stone, etc.
+2. ???
+3. Fluency
+
+
+Note: assuming you can't live in a foreign country, or don't have any relatives that can help you
+
+!!!
+
+### Problem
+
 
 !!!
 
@@ -102,6 +111,23 @@ Note: Different tools are designed for different things. Don't expect one tool t
 
 !!!
 
+### SRS
+
+(image)
+
+Note: the scene where neo is in the chair, then wakes up and says I KNOW KUNG FU
+
+!!!
+
+### How to Make Good Flashcards
+
+- No English! Use images instead
+- 3 cards for every word: Recognition, Recall, and Comprehension
+
+Note: Some strategies in the book Fluent Forever by Gabriel Wyner. Use google images in your target language if you can, because you'll often notice differences. E.g. in French, camion means truck, but it's usually used to describe a semi truck.
+
+!!!
+
 ### Speaking
 
 Look for things that require you to _produce_ the language.
@@ -113,7 +139,25 @@ Note: THE thing you want to focus on
 
 !!!
 
-### Recap:
+
+### Summary
+
+!!!
+
+### There's a more detailed method to language learning
+
+1. Learn pronunciation
+2. Learn about 700 words with SRS
+3. Learn some basic grammar
+4. Learn to say or write simple things
+5. Have simple conversations with a native speakers
+6. Continue speaking, listening, learning vocabulary and grammar 
+7. Fluency?
+
+!!!
+
+### Good things to remember
+
 - Consistency is key — learning is long, not hard
 - Focus on the common words
 - Learn pronunciation first
