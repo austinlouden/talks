@@ -7,37 +7,59 @@ By <a href="http://austinlouden.com">Austin Louden</a> / <a href="https://www.pi
 
 !!!
 
-### One way to think of language learning
-
-1. Duolingo, Rosetta Stone, etc.
-2. ???
-3. Fluency
-
-
-Note: assuming you can't live in a foreign country, or don't have any relatives that can help you
-
-!!!
-
-### Problem
-
-
-!!!
-
 ### My background
 
 | Language | Time | Ability |
 | -------- | ------ | ----- |
 | Latin | 4 years | Terrible |
-| Italian | 1 years | Terrible |
-| Spanish | 6 months | Pretty good |
-| German | 3 months | Meh |
-| French | 3 months | OK |
+| Italian | 1 year | Terrible |
+| Spanish | 6 months | OK (B1/B2) |
+| German | 4 months | Meh (A2) |
+| French | 3 months | OK (A2) |
 
 Note: I don't know if Latin has helped. Get to college, placed into Spanish 2, but I didn't take it bc 8am.
 
 !!!
 
-### Learning a language isn't hard — it's just long
+
+### A process
+
+!!!
+
+### When I started...
+
+1. Duolingo, Rosetta Stone, etc.
+<!-- .element: class="fragment" data-fragment-index="1" -->
+2. ???
+<!-- .element: class="fragment" data-fragment-index="2" -->
+3. Fluency
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+Note: assuming you can't live in a foreign country,
+or don't have any relatives that can help you
+
+!!!
+
+### In this talk...
+
+What tools should I use?
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+How do I go from using those tools to having conversations?
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+!!!
+
+### Developing a process
+
+!!!
+
+
+### Premises
+
+!!!
+
+### 1. Learning a language isn't hard — it's just long
 
 ![language mountain](img/language_mountain.png)
 
@@ -45,17 +67,17 @@ Note: The hardest part is at the beginning.
 
 !!!
 
-### Learn pronunciation first
+### 2. Learn pronunciation first
 
 Note: people shy away bc they're worried about how they sound
 
 !!!
 
-### We don't use that many words
+### 3. We don't use that many words
 
 ![up goer five](img/up_goer.png)
 
-Note: Randall Munroe of xkcd, up goer five = Saturn V Rocket
+Note: As part of Thing Explainer, Randall Munroe of xkcd, up goer five = Saturn V Rocket
 
 !!!
 

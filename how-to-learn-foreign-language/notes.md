@@ -1,137 +1,82 @@
-Abstract:
+INTRO
 
-Composable Caching in Swift
-
-
-Consider what it means to be a cache. You need to be able to 
-(1) associate a key with a value and 
-(2) get some value given a key if such a value exists. 
-That's basically it. Caches tend to appear in layers. In a CPU, memory reads check L1, then L2, then L3, then RAM. When we want to load an image, we first check RAM, then disk, and finally network. 
-
-In a mobile app, if you don't nail your cache code, your users will suffer. Excessive networking causes both battery and data-plan drain. We can help ensure a clean correct implementation by combining caches. Given two caches A and B, A `on-top-of` B means first check A, fallthrough to B, then write back to A. Now we can define a monoid for caches. Monoids imply easy composition. Easy composition means reasoning about our code becomes easy.
-
-Such an abstraction isn't possible to express both statically and generically in languages like Objective-C and Java, but we can with Swift's strong type system. The caching library Carlos provides the foundation upon which we can build prefetching and other useful transformations. In our app, adopting such a system simplified our codebase: Caches became reusable legos. But the complexity doesn't just all go away, it's just hidden. When an abstraction is so nice, it's tempting to think of the actual caches and cache glue as black-boxes. One problem we ran into was a reference cycle that led to large bitmaps leaking and phones running out of memory. It's important to actually think about the implementation details in detail, since these are your building blocks for the rest of the system. When your building blocks are stable, your building is stable.
-
-Caching and prefetching are necessary for mobile apps. In this talk, I will explain how to think about caches as monoids, how a monoidal caching system can simplify our jobs as software engineers, and what real-world problems we ran into when putting such a system into production.
-
-
-
-Story:
-
-Photos app ->
-Needs caching ->
-Ad hoc caching is messy ->
-Let's manage the complexity ->
-Too specific ->
-Abstraction ->
-Cache protocol ->
-Implementations of protocol ->
-Networking needs to give images ->
-Transformations ->
-Return value for map? ->
-Lambda cache / Basic cache ->
-Map still needs another contra-transform ->
-Because it needs both it's a profunctor ->
-Too slow to convert, need async map ->
-Key transforms are contravariant functors ->
-(need transition)
-Reusing inflight requests ->
-How do we reuse across disk and network ->
-Cache layering ->
-It's monoid ->
-Monoid means composable ->
-Legos ->
-Transformations ons legos (for any legos) ->
-Simple(r) client-side caching ->
-Simpler?, you still need the imperative core! ->
-Bugs interfacing with native libs -> (networking) ->
-Bugs in the core of the library -> (futures) ->
-Better summary
-
-
-
-
-
-Don't summarize so fast
-
-Photos
+Hey, I'm Austin, I'm an iOS engineer on the Core Experience team.
+Today, I'd like to tell you about one of my favorite things to do,
+learing languages.
 
 ===
 
-Downloading from network: 30sec
-Disk: 1sec
-Ram: 1ms
+MY BACKGROUND
 
-Have a picture; have a diagram;
+So I grew up speaking only English, and my parents speak only English
+as well - and that's kind of who this talk is for:
+- maybe you grew up speaking only English as well
+- maybe you grew up speaking English along with another language your
+parents spoke, and you're interested in learning something entirely
+different
 
-===
+Took Latin for 4 years in high school and I was terrible at it.
+Then I wanted to take Spanish in college, but the only open classes
+were at 8am, so instead I took Italian, didn't go so well either.
 
-Thanks p for sponsoring. Thanks for m
+Despite that, I was still really interested in this idea of speaking
+another langauge, just because it seemed liked such a novel
+experience.
 
-===
+So I started studying Spanish. Later, I ended up living
+in Barcelona for a month which helped immensely.
 
-Maybe remove showing the progress of fetch
+I lived with people who only spoke Spanish, so I got to the point
+where I was having conversations every day.
 
-Also videos and comments and...
+Then after I was okay at Spanish, I thought, wouldn't it be cool to
+try to get to the same level that I'm at in Spanish in some other languages?
 
-===
+To have a process, then refine that process over time.
 
-Consider ripping out lambdacache and not-so-simple
-
-It's important to be generic
-
-Go slower on the `set` possibly
-
-Consider making squares and circls
-
-It's not that the actual caches changes, it's that when you call it, the functions
-
-===
-
-Picture (maybe an animation)
-showing where the new request comes in (loadDataSafley)
-
-===
-
-`onTopOf` is too fast
-Simplify the type signature of `onTopOf`
-don't need `e in` in the `onTopOf` come from
+So I learned a bit of German for a while, and I'm currently studying French.
+And now I'm kinda shooting for the point where I can have not just casual
+conversation, but more complex converstations.
 
 ===
 
-Insert carlos callout
+A PROCESS
+
+So that's what this talk is about - a process.
+
+- that I've learned from my experiences learning parts of these 
+languages
+- that I've learned from reading books and kind of distilling lots of
+information that I've learned from language learners more experienced
+than myself?
+
+How do you get from knowing nothing about
+a language, to being able to have simple conversations in that language,
+then how do you get from that, to progressively more complex converstations?
 
 ===
 
-We're staying in the real problems section
-Real problem #2
+WHEN I STARTED...
+
+When I started, this was my impression of language learning.
+There are all these tools out there.
 
 ===
 
-When using some library and you call `.magic`, you can't assume that everything is amazing in that function
+IN THIS TALK
+
+To break down this problem, there are two key questions: 
+what tools should I use?
+How to I go from using those tools to having conversations? 
 
 ===
 
-Now that we've fixed the bugs...
+
+Before I go into the details of the tools and the process,
+it's helpful to have an understanding of some ideas that language
+learning community is gravitating towards.
+
+These ideas form the basis for the process
 
 ===
 
-Real example? loading the images (a diagram)
-SUMMARY at the end
-
-
-1. see if we have the images
-2. load them from dictionary?
-3. load them from...
-...
-7. Fetch from database
-
-New feature (users can upload videso)
-
-Show how crappy the world is, then show the not crappy
-
-At the end so we want to load anything?
-
-1.dd
-2. sad
-3. asd
