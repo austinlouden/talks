@@ -1,9 +1,31 @@
 <!-- .slide: data-background="#2aa198" -->
 <!-- .slide: data-state="terminal" -->
 
-# How to Start Learning a Foreign Language
-
+# How to Start Learning a Foreign Language 
 By <a href="http://austinlouden.com">Austin Louden</a> / <a href="https://www.pinterest.com/austinlouden/"><i class="fa fa-pinterest" aria-hidden="true"></i>austinlouden</a> / <a href="http://twitter.com/bkase_">@austinlouden</a> 
+
+!!!
+
+### A process
+
+What tools should I use?
+<!-- .element: class="fragment" data-fragment-index="1" --> 
+How do I go from using those tools to having conversations?
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+!!!
+
+### When I started...
+
+1. Duolingo, Rosetta Stone, etc.
+<!-- .element: class="fragment" data-fragment-index="1" -->
+2. ???
+<!-- .element: class="fragment" data-fragment-index="2" -->
+3. Fluency
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+Note: assuming you can't live in a foreign country,
+or don't have any relatives that can help you
 
 !!!
 
@@ -22,40 +44,7 @@ Note: I don't know if Latin has helped. Get to college, placed into Spanish 2, b
 !!!
 
 
-### A process
-
-!!!
-
-### When I started...
-
-1. Duolingo, Rosetta Stone, etc.
-<!-- .element: class="fragment" data-fragment-index="1" -->
-2. ???
-<!-- .element: class="fragment" data-fragment-index="2" -->
-3. Fluency
-<!-- .element: class="fragment" data-fragment-index="3" -->
-
-Note: assuming you can't live in a foreign country,
-or don't have any relatives that can help you
-
-!!!
-
-### In this talk...
-
-What tools should I use?
-<!-- .element: class="fragment" data-fragment-index="1" -->
-
-How do I go from using those tools to having conversations?
-<!-- .element: class="fragment" data-fragment-index="2" -->
-
-!!!
-
-### Developing a process
-
-!!!
-
-
-### Premises
+### Part One: Foundations
 
 !!!
 
@@ -67,13 +56,60 @@ Note: The hardest part is at the beginning.
 
 !!!
 
-### 2. Learn pronunciation first
+### 2. Learn the sounds and pronunciation first
 
-Note: people shy away bc they're worried about how they sound
+Note: If there's one thing that I've seen recent consensus about,
+in language learning books, blogs, etc. — it's that learning
+pronunciation is perhaps the most important. It's funny, because in
+school, this is probably the area where we place the least effort.
+I think more for reasons on scale and not for reasons of value.
+Easy to give exams about vocab. Easy to fill in the blank in Duolingo.
 
 !!!
 
-### 3. We don't use that many words
+### Two approaches to learning
+
+- Reading and Writing
+<!-- .element: class="fragment" data-fragment-index="1" -->
+- Speaking and Listening
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+Note: At a higher level, there are two approaches to language learning.
+Most people, because it's the most convenient, or most
+available, learn the skillset of reading and writing
+
+!!!
+
+### Common pitfalls of learning by reading and writing
+
+- I know a lot of vocab, but native speakers speak too quickly for
+me to understand
+<!-- .element: class="fragment" data-fragment-index="1" -->
+- I can write well, but I can't speak
+<!-- .element: class="fragment" data-fragment-index="2" -->
+- Native speakers can't understand my accent
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+Note: 
+When you look at the problems people often say they have
+when learning a language, the community has noticed that many
+of these can be traced back to an education that based mostly on
+reading and writing.
+- if you don't know a word by how it sounds, you will never
+be fast enough to take the words you're hearing, imagine them in text
+form, and then map that to a translation in your brain. You need to go
+straight from sounds to meaning.
+- a lot of this comes from fear of mispronouncing things
+- this can come from reading a lot before you understand how to pronounce
+things. You voice the words in you're head and internalize wrong
+pronunciations. You're not learning French, you're learning a third
+language, that's somewhere between English and French, that only you
+know.
+
+!!!
+
+
+### 3. Focus on the most frequently used words
 
 ![up goer five](img/up_goer.png)
 
@@ -114,15 +150,24 @@ Note: Spanish, 4k words = 90%. linguists use the term lexeme. Alexander Argüell
 10 words a day * 365 days = 3,650 words
 ```
 
-Note: puts you somewhere between everything you could want to say and a native speaker without higher education
+Note: puts you somewhere between everything you could want to say 
+and a native speaker without higher education.
+But of course, there's more to langauge than vocab.
 
 !!!
 
-### Tools
+### Part Two: Tools
+
+Note: second part of the talk, tools or tactics. So, if you agree
+with the foundations in the first part, how do you put those into practice?
+
+1. learning a language isn't hard, it's long
+2. start with sounds and pronunciation
+3. learn the most common words first
 
 !!!
 
-### 4 Elements of learning a language
+### 4 Elements
 
 - Speaking
 - Listening
@@ -133,20 +178,57 @@ Note: Different tools are designed for different things. Don't expect one tool t
 
 !!!
 
-### SRS
+### Spaced-Repetition Software (SRS)
 
 (image)
 
 Note: the scene where neo is in the chair, then wakes up and says I KNOW KUNG FU
+SRS can be good for all four elements, and I can show you what I mean
+by that later.
+
+!!!
+
+### SRS Recommendations
+
+- Anki (https://apps.ankiweb.net/)
+<!-- .element: class="fragment" data-fragment-index="1" -->
+- Memrise (https://www.memrise.com/)
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+Note: two recommendations, both are free.
+- Anki is the definitive app for serious language-learners. Download
+decks or make your own.
+- Memrise has a really polished mobile app and courses made by
+professionals. All their cards have audio (and most other deck have
+audio as well)
 
 !!!
 
 ### How to Make Good Flashcards
 
 - No English! Use images instead
-- 3 cards for every word: Recognition, Recall, and Comprehension
+- 3 cards for every word
 
-Note: Some strategies in the book Fluent Forever by Gabriel Wyner. Use google images in your target language if you can, because you'll often notice differences. E.g. in French, camion means truck, but it's usually used to describe a semi truck.
+Note: the other huge benefit to Anki is that you can generate many different
+flashcards with the same data.
+Spot the differences, Fluent Forever
+
+!!!
+
+### Flash card data
+
+- French word
+- image
+- IPA
+- gender and part of speech
+- audio
+
+| Front | Back | 
+| -------- | 
+| French word | image, audio... | 
+| Image | French word, audio... | 
+| Audio | French word, image... | 
+
 
 !!!
 
@@ -156,11 +238,36 @@ Look for things that require you to _produce_ the language.
 
 - Michel Thomas
 - Pimsleur 
+- iTalki
 
 Note: THE thing you want to focus on
 
 !!!
 
+
+### Listening
+
+- Pimsleur
+- Easy languages (YouTube)
+- Minimal pairs
+- iTalki
+
+!!!
+
+### Writing
+
+- journal
+- Lang-8 (http://lang-8.com/)
+
+!!!
+
+
+### Reading
+
+- read a book you've already read before (childhood favorites)
+
+
+!!!
 
 ### Summary
 
