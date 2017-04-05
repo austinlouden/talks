@@ -27,23 +27,6 @@ you're trying to learn.
 
 !!!
 
-### What we'll cover
-
-1. Foundations
-<!-- .element: class="fragment" data-fragment-index="1" --> 
-2. Tools
-<!-- .element: class="fragment" data-fragment-index="2" --> 
-
-Note: 
-- I'll start by talking about some foundations. These are ideas or
-premises that can help guide what stuff you choose study, and they
-heavily influence what I'll talk about in the next part.
-- Then, in the second part, I'll talk about specific tools or tactics
-that put those principles into practice.
-TRANSITION: but before we start, I'll give you a quick overview of
-my language-learning background.
-
-!!!
 
 ### My background
 
@@ -67,17 +50,11 @@ Barcelona where I only spoke Spanish.
 
 ### Part One: Foundations
 
-!!!
-
-### 1. Learning a language isn't hard — it's just long
-
 ![language mountain](img/language_mountain.png)
 
-Note: The hardest part is at the beginning.
-
 !!!
 
-### 2. Learn the sounds and pronunciation first
+### Learn the sounds and pronunciation first
 
 Note: If there's one thing that I've seen recent consensus about,
 in language learning books, blogs, etc. — it's that learning
@@ -126,8 +103,8 @@ reading and writing.
 
 ### Pitfall #1
 
-"I know a lot of vocab, but _native speakers speak too quickly for
-me to understand_"
+"I know a lot of vocab, but _native speakers speak too quickly_ for
+me to understand"
 
 Note: if you don't know a word by how it sounds, you will never
 be fast enough to take the words you're hearing, imagine them in text
@@ -157,11 +134,27 @@ know.
 !!!
 
 
-### 3. Focus on the most frequently used words
+### Focus on the most frequently used words
 
 ![up goer five](img/up_goer.png)
 
-Note: As part of Thing Explainer, Randall Munroe of xkcd, up goer five = Saturn V Rocket
+Note: if you're familiar with XKCD, you might've heard of a book called
+Thing explainer by Randall Munroe. In it, Randall tries to descibe some
+fairly complicated concepts in science using only the 1000 most commonly
+used words in english. and he does a pretty good job.
+up goer five = Saturn V Rocket
+
+TRANSITION: So where did Randall Munroe get the 1000 most common words in
+English? 
+
+!!!
+
+### Word frequency dictionaries
+
+![Word Frequency Dictionary](img/frequency_dictionary.jpg)
+
+Note: Well, if you're familiar with Routledge, they product these things
+called Word Frequency Dictionary
 
 !!!
 
@@ -172,6 +165,8 @@ Note: As part of Thing Explainer, Randall Munroe of xkcd, up goer five = Saturn 
 | 1000 | 80% of text |
 | 2000 | 85% of text |
 | 3000 | 89% of text |
+
+Source: Spanish Word Frequency Study, Routledge
 
 Note: this comes from a fascinating read about how Routledge makes their frequency dictionaries (with 100 mil words as input) https://www.scribd.com/doc/35527699/Spanish-Word-Frequency-Study ALSO these numbers are usually higher coverage for spoken because speech tends to be much more repetitive. Things are broken down by ranges and compared, e.g. fiction text vs. scientific textbooks, etc.
 
@@ -278,53 +273,124 @@ Note: two recommendations, both are free.
 !!!
 
 
-# Anki
+### Anki
 
-- download decks or make your own
-<!-- .element: class="fragment" data-fragment-index="1" -->
-- generate multiple cards based on a certain set of data
-<!-- .element: class="fragment" data-fragment-index="2" -->
+![Anki UI](img/anki_ui.png)
 
-Note: TRANSITION: I can tell you how I make my flash cards in Anki
+Note: Anki has a terrible UI, but it's kind of the undisputed
+juggernaut in language learning software, along with other things. Used by med
+and law students to study
+
+TRANSITION: I can tell you how I make my flash cards in Anki, but as a quick
+aside, I'd like to say why it's worth making you own flash cards to begin with.
 
 !!!
 
-### How to Make Anki Flash cards
+### Why make your own flash cards?
 
-- No English! Use images instead
+![Anki Make Card](img/anki_make_card.png)
+
+Note:
+- Here's how I create cards in Anki. All the fields are customizable, but
+I've chosen these.
+- making your own flash cards seems like a dull and repetitive process, AND IT
+IS, but you will NEVER forget things that you make, simply because you spend
+so much time on them. 
+- you don't need to do this for every card, but it might be worthwhile
+for the first 500 to 1000 words. Later on you can learn words just like you do
+  in English.
+
+!!!
+
+### Don't put English on your cards
+
+Use images instead.
+
+_camion = truck_
 <!-- .element: class="fragment" data-fragment-index="1" -->
-- 3 cards for every word
+
+google.fr, "camion"
 <!-- .element: class="fragment" data-fragment-index="2" -->
+
+![camion](img/camion.jpg)
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+_camion = "semi-truck, semi"_
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
 
 Note: 
-- there have been many studies about this, images trigger much more in
-the brain. There's also a good exercise from a book called Fluent Forever,
-which suggests you should find your examples on say, google.fr. Camion = semi
-- the other huge benefit to Anki is that you can generate many different
-flashcards with the same data.
+Two reason for this.
+- there have been many studies that have shown we're better at 
+remembering images than words because they make more connections within the brain. 
+This is even more so when we chose the image ourselves, if we're making our own cards
+- notice subtle differences
 
-TRANSITION: mentioned that you could do generate multiple cards for a certain
-set of of data, so I usually generate 3, here's what they look like.
+TRANSITION: you also may have noticed that in the add card form,
+I didn't specify a front or back
+
+!!!
+
+### No need to specify a front or back
+
+- No need to specify a front or back
+
+Note: I generate 3 cards per word. And we can kind of go through what
+it looks like when I use it.
 
 !!!
 
-### 3 distinct cards
+### Text card (front)
 
-Data:
-- French word
-- image
-- IPA
-- gender and part of speech
-- audio
+![Text Front](img/anki_text_front.png)
 
-| Front | Back | 
-| -------- | 
-| French word | image, audio... | 
-| Image | French word, audio... | 
-| Audio | French word, image... | 
-
+Note: helps with pronunciation, reading and vocabulary
 
 !!!
+
+### Text card (back)
+
+![Text Back](img/anki_text_back.png)
+
+Note: helps with pronunciation, reading and vocabulary
+
+!!!
+
+
+### Image card (front)
+
+![Image Front](img/anki_image_front.png)
+
+Note: helps with pronunciation, vocabulary
+
+!!!
+
+### Image card (back)
+
+![Image Back](img/anki_image_back.png)
+
+Note: helps with pronunciation, vocabulary
+
+!!!
+
+
+### Audio card (front)
+
+![Audio Front](img/anki_front_audio.png)
+
+Note: helps with listening
+
+!!!
+
+### Audio card (back)
+
+![Audio Back](img/anki_back_audio.png)
+
+Note: helps with listening
+
+!!!
+
 
 ### Memrise
 
