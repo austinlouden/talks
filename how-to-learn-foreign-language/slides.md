@@ -17,44 +17,64 @@ learning languages
 - How do I go from using those tools to having conversations?
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
-Note: By the end of this talk, I want to help you answer two key questions
-when learning a language
-- there are a lot of tools beyond duolingo to help leaning. A lot are good
+Note: What I hope you'll take away from this talk are the answers to
+two key questions:
+- there are a lot of tools out there to help you learn. Some tools are good
 at different things. I'll give some advice on which ones to use.
 - this is a very important question to answer, especially if you're
 staying in the US, and have no family or friends that speak the language
 you're trying to learn.
+
+TRANSITION: but before we start, I can give you a short overview of my
+language learning background
 
 !!!
 
 
 ### My background
 
-| Language | Time | Ability |
-| -------- | ------ | ----- |
-| Latin | 4 years | Terrible |
-| Italian | 1 year | Meh |
-| Spanish | 6 months | OK (B1/B2) |
-| German | 4 months | Meh (A2) |
-| French | 3 months | OK (A2) |
+Latin, Italian, _Spanish_, German, _French_
 
-Note: took 4 years of Latin in school. Was terrible. Took Italian in college
-and that didn't work out too well either.
+Note: I am by no means fluent in any of them, but I would say that
+I can hold conversations in a few of them, most notably Spanish and French.
 
-But I was still fascinated by people who could speak several languages
-fluently. So I decided to try Spanish. Ended up spending a month in 
-Barcelona where I only spoke Spanish.
+TRANSITION: related to that, I should make the distinction between
+"flunecy" and "conversational fluency"
 
 !!!
 
+### Goal: Conversational fluency
 
-### Part One: Foundations
+- know around 3,000 words
+<!-- .element: class="fragment" data-fragment-index="1" --> 
+- express anything, although sometimes in indirect ways
+<!-- .element: class="fragment" data-fragment-index="2" --> 
+- people understand what you say
+<!-- .element: class="fragment" data-fragment-index="3" --> 
+- you understand people well enough to identify specific words you don't know
+<!-- .element: class="fragment" data-fragment-index="4" --> 
 
-![language mountain](img/language_mountain.png)
+Timeline: about 6 months to a year
+<!-- .element: class="fragment" data-fragment-index="5" --> 
+
+Note: what we're shooting for here, is 0 to conversational fluency.
+Everyone has there own definition of conversational fluency. Here's my
+personal impression
+
+TRANSITION: Now that we know more about what we're aiming for, we can
+talk about strategy
 
 !!!
 
-### Learn the sounds and pronunciation first
+### Part One: Strategy
+
+Note: so, part one is strategy, part two is tactics.
+
+TRANSITION: There are two parts to the strategy. The first is...
+
+!!!
+
+### 1. Learn the sounds and pronunciation first
 
 Note: If there's one thing that I've seen recent consensus about,
 in language learning books, blogs, etc. — it's that learning
@@ -103,13 +123,14 @@ reading and writing.
 
 ### Pitfall #1
 
-"I know a lot of vocab, but _native speakers speak too quickly_ for
+"I know a lot of vocabulary, but _native speakers speak too quickly_ for
 me to understand"
 
-Note: if you don't know a word by how it sounds, you will never
-be fast enough to take the words you're hearing, imagine them in text
-form, and then map that to a translation in your brain. You need to go
-straight from sounds to meaning.
+Note: so this is a challenge regardless of how you learn a language
+because it takes time to get accustomed to processing new sounds quickly.
+
+But it's even more challenging if you're not familiar with the sounds of
+words at all, but only how they look on paper of flashcards
 
 !!!
 
@@ -117,7 +138,9 @@ straight from sounds to meaning.
 
 "I can write well, but *I can't speak."*
 
-Note: a lot of this comes from fear of mispronouncing things
+Note: I often felt this way because I was afraid of mispronoucing things.
+I also wasns't tools that would challenge me to speak or build sentences
+quickly in my head.
 
 !!!
 
@@ -125,16 +148,40 @@ Note: a lot of this comes from fear of mispronouncing things
 
 "Native speakers *can't understand my accent"*
 
-Note: this can come from reading a lot before you understand how to pronounce
-things. You voice the words in you're head and internalize wrong
-pronunciations. You're not learning French, you're learning a third
-language, that's somewhere between English and French, that only you
-know.
+Note: French is notorious for this. For example, take a look at this word.
+
+!!!
+
+### Pitfall #3 cont.
+
+_froid_
+
+/fʁwa/
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+Note: In English, we might think this is
+pronounced like froid, and if we were reading a French text and came 
+across it, we might guess it was pronounced more or less the same, but
+with a French accent.
+
+It's actually pronounced fwa, and it means cold. But if we han't known
+that, then we've just been set back a bit by internalizing an incorrect
+pronunciation.
+
+In that case, we're not actually learning French, we're learning some third
+language, that's somewhere between English and French.
+
+!!!
+
+### What do these pitfalls have in common?
+
+Each one has to do with _understanding_ and _speaking_.
+<!-- .element: class="fragment" data-fragment-index="1" -->
 
 !!!
 
 
-### Focus on the most frequently used words
+### 2. Focus on the most frequently used words
 
 ![up goer five](img/up_goer.png)
 
@@ -144,7 +191,7 @@ fairly complicated concepts in science using only the 1000 most commonly
 used words in english. and he does a pretty good job.
 up goer five = Saturn V Rocket
 
-TRANSITION: So where did Randall Munroe get the 1000 most common words in
+TRANSITION: So where did Randall get the 1000 most common words in
 English? 
 
 !!!
@@ -156,36 +203,34 @@ English?
 Note: Well, if you're familiar with Routledge, they product these things
 called Word Frequency Dictionary
 
+TRANSITION: While they were producing this spanish frequency dictionary,
+they also did another really cool study. Here's how it worked
+
 !!!
 
-### Coverage
+### Word frequency study
 
-| Words | Coverage |
-| -------- | ------ |
-| 1000 | 80% of text |
-| 2000 | 85% of text |
-| 3000 | 89% of text |
+1. Take 100 million words of content written in Spanish
+<!-- .element: class="fragment" data-fragment-index="1" -->
+2. Identify the most common words
+<!-- .element: class="fragment" data-fragment-index="2" -->
+3. Determine how many words were needed to read a certain percentage of
+content.
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+Note: 
+1. these came from a variety of sources, including newspapers and magazines,
+books, movies, political speeches
+
+
+!!!
+
+### How many words do you need to know to read x% of 100 mil. words?
+
+![Word coverage](img/words_graph.png)
 
 Source: Spanish Word Frequency Study, Routledge
 
-Note: this comes from a fascinating read about how Routledge makes their frequency dictionaries (with 100 mil words as input) https://www.scribd.com/doc/35527699/Spanish-Word-Frequency-Study ALSO these numbers are usually higher coverage for spoken because speech tends to be much more repetitive. Things are broken down by ranges and compared, e.g. fiction text vs. scientific textbooks, etc.
-
-!!!
-
-### In general
-
-| Words | Rule of thumb |
-| -------- | ------ |
-| 250 | the core of a language |
-| 750 | used every day by people who speak the language |
-| 2500 | everything you could possibly want to say, albeit awkwardly |
-| 5000 | native speakers without higher education |
-| 10000 | native speakers with higher education | 
-| 20000 | passively read, understand, and enjoy a work of literature such as a novel by a notable author |
-
-Note: Spanish, 4k words = 90%. linguists use the term lexeme. Alexander Argüelles prof at American University. After learning several languages
-
-!!!
 
 ### Good news
 
@@ -199,14 +244,13 @@ But of course, there's more to langauge than vocab.
 
 !!!
 
-### Part Two: Tools
+### Part Two: Tactics
 
 Note: second part of the talk, tools or tactics. So, if you agree
 with the foundations in the first part, how do you put those into practice?
 
-1. learning a language isn't hard, it's long
-2. start with sounds and pronunciation
-3. learn the most common words first
+1. start with sounds and pronunciation
+2. learn the most common words first
 
 TRANSITION:
 
@@ -397,6 +441,8 @@ Note: helps with listening
 - Memrise 
 https://www.memrise.com/
 
+![Memrise profile](img/memrise_profile.png)
+
 Note: Memrise has a really polished mobile app and courses made by
 professionals. All their cards have audio (and most other deck have
 audio as well)
@@ -408,21 +454,63 @@ audio as well)
 
 Look for things that require you to _produce_ the language.
 
-- Michel Thomas
-- Pimsleur 
-- iTalki
+!!!
 
-Note: THE thing you want to focus on
+### What do you mean by produce?
+
+Tools that force you to come up with sentences on your own.
 
 !!!
 
+### Michel Thomas
+
+![Michel Thomas](img/michel_sofia.jpg)
+
+Note: This guy Michel Thomas produced one of my favorite series of
+language audio recordings. He grew up speaking Polish, then moved to
+Germany as a kid. Then in the 1930s, he fled to France, where he fought
+with French resistance.
+
+- Polish, German, French, then later Italian and Spanish, he moved to LA
+where he taught diplomats,,, that's him with Sofia Loren the actress.
+
+!!!
+
+### Michel Thomas Method
+
+1. Je voudrais manger
+<!-- .element: class="fragment" data-fragment-index="1" -->
+2. Je voudrais manger avec vous
+<!-- .element: class="fragment" data-fragment-index="2" -->
+3. Je voudrais manger avec vous ce soir
+<!-- .element: class="fragment" data-fragment-index="3" -->
+4. Je voudrais manger avec vous ce soir, mais je n'ai pas une réservation.
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+Note:
+- The recording are good because it's basically just a tape of Michel
+with two students, and you can pause the tape and answer in their place.
+It's kinda like having a private lesson.
+- Michel is very good at giving you these lego piece that help you form
+more and more complicated sentences.
+
+!!!
 
 ### Listening
 
 - Pimsleur
-- Easy languages (YouTube)
-- Minimal pairs
-- iTalki
+
+!!!
+
+
+### Minimal pairs
+
+z vs. s:
+_Knees_ : /niːz/
+<!-- .element: class="fragment" data-fragment-index="1" -->
+_Niece_ : /niːs/
+<!-- .element: class="fragment" data-fragment-index="2" -->
 
 !!!
 
