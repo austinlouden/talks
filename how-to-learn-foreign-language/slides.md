@@ -5,7 +5,8 @@
 By <a href="http://austinlouden.com">Austin Louden</a> / <a href="https://www.pinterest.com/austinlouden/"><i class="fa fa-pinterest" aria-hidden="true"></i>austinlouden</a> / <a href="http://twitter.com/bkase_">@austinlouden</a> 
 
 
-Note: excited to tell you about one of my favorite things to do in free time,
+Note: thanks for coming 
+excited to tell you about one of my favorite things to do in free time,
 learning languages
 
 !!!
@@ -21,7 +22,8 @@ Note: What I hope you'll take away from this talk are the answers to
 two key questions:
 - there are a lot of tools out there to help you learn. Some tools are good
 at different things. I'll give some advice on which ones to use.
-- this is a very important question to answer, especially if you're
+- what does the process look like from using tools to having conversations?
+this is a very important question to answer, especially if you're
 staying in the US, and have no family or friends that speak the language
 you're trying to learn.
 
@@ -54,12 +56,15 @@ TRANSITION: related to that, I should make the distinction between
 - you understand people well enough to identify specific words you don't know
 <!-- .element: class="fragment" data-fragment-index="4" --> 
 
-Timeline: about 6 months to a year
+Timeline: about a year
 <!-- .element: class="fragment" data-fragment-index="5" --> 
 
 Note: what we're shooting for here, is 0 to conversational fluency.
 Everyone has there own definition of conversational fluency. Here's my
 personal impression
+
+Timeline for these goals can be as short as a year,
+depending on how much you study
 
 TRANSITION: Now that we know more about what we're aiming for, we can
 talk about strategy
@@ -114,10 +119,9 @@ TRANSITION: I think there are a lot of pitfalls to this approach.
 
 ### Common pitfalls of learning by reading and writing
 
-Note: When you look at the problems people often say they have
-when learning a language, the community has noticed that many
-of these can be traced back to an education that based mostly on
-reading and writing.
+Note: In my experience, most of the difficulties I've heard from
+people learning languages fall into one of these three buckets.
+
 
 !!!
 
@@ -131,6 +135,24 @@ because it takes time to get accustomed to processing new sounds quickly.
 
 But it's even more challenging if you're not familiar with the sounds of
 words at all, but only how they look on paper of flashcards
+
+!!!
+
+
+### Pitfall #1 cont.
+
+Sounds -> what does this word look like on paper? -> meaning
+
+
+_Sounds -> meaning_
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+Note:
+- so if you're having a conversation with someone, even if you're
+not aware of it, you brain might be doing something like this
+- instead, we want to focus on tools that help us go directly from
+sounds to meaning
 
 !!!
 
@@ -156,7 +178,7 @@ Note: French is notorious for this. For example, take a look at this word.
 
 _froid_
 
-/fʁwa/
+/fʁwa/ : cold
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note: In English, we might think this is
@@ -175,11 +197,28 @@ language, that's somewhere between English and French.
 
 ### What do these pitfalls have in common?
 
-Each one has to do with _understanding_ and _speaking_.
+Each one has to do with _understanding and speaking_.
 <!-- .element: class="fragment" data-fragment-index="1" -->
 
 !!!
 
+### How does a focus on sounds and pronunciation help?
+
+- Go straight from sound to meaning
+<!-- .element: class="fragment" data-fragment-index="1" -->
+- Pronunciation gives you confidence to speak
+<!-- .element: class="fragment" data-fragment-index="2" -->
+- Natives speakers will understand you better if you focus on accent
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+Note: 
+- that means associating a sound with every word you learn
+
+TRANSITION: that covers the first of our strategy. I'd say there's one
+more that's equally important.
+
+!!!
 
 ### 2. Focus on the most frequently used words
 
@@ -200,8 +239,8 @@ English?
 
 ![Word Frequency Dictionary](img/frequency_dictionary.jpg)
 
-Note: Well, if you're familiar with Routledge, they product these things
-called Word Frequency Dictionary
+Note: a company called Routledge makes these things
+called Word Frequency Dictionaries
 
 TRANSITION: While they were producing this spanish frequency dictionary,
 they also did another really cool study. Here's how it worked
@@ -212,24 +251,41 @@ they also did another really cool study. Here's how it worked
 
 1. Take 100 million words of content written in Spanish
 <!-- .element: class="fragment" data-fragment-index="1" -->
-2. Identify the most common words
+2. Sort by the most common words
 <!-- .element: class="fragment" data-fragment-index="2" -->
-3. Determine how many words were needed to read a certain percentage of
-content.
+3. How many words do you need to know to read 90% of 
+the 100 million word sample?
 <!-- .element: class="fragment" data-fragment-index="3" -->
 
 Note: 
 1. these came from a variety of sources, including newspapers and magazines,
 books, movies, political speeches
 
+!!!
+
+### Results
+
+“With about _4000 words_, a language learner would be able to recognize _more 
+than 90%_ of the words in a typical native speaker conversation.”
+
+
+>Source: Spanish Word Frequency Study, Routledge
+https://www.scribd.com/doc/35527699/Spanish-Word-Frequency-Study
 
 !!!
 
-### How many words do you need to know to read x% of 100 mil. words?
+### Words known vs. % Coverage
 
 ![Word coverage](img/words_graph.png)
 
-Source: Spanish Word Frequency Study, Routledge
+> Source: Lingvist https://lingvist.com/
+
+Note: 
+- Number of words you know is on the x-axis, and the percent
+of text that covers is on the Y axis.
+- notice how quickly you can get to around 75%
+
+!!!
 
 
 ### Good news
@@ -262,7 +318,7 @@ TRANSITION:
 <!-- .element: class="fragment" data-fragment-index="1" -->
 2. ???
 <!-- .element: class="fragment" data-fragment-index="2" -->
-3. Fluency
+3. Fluency?
 <!-- .element: class="fragment" data-fragment-index="3" -->
 
 Note: 
@@ -286,12 +342,6 @@ Software
 !!!
 
 ### Spaced-Repetition Software (SRS)
-
-![Matrix](img/matrix.jpg)
-
-Note: the scene where neo is in the chair, then wakes up and says I KNOW KUNG FU
-SRS can be good for all four elements, and I can show you what I mean
-by that later.
 
 !!!
 
@@ -378,7 +428,7 @@ I didn't specify a front or back
 
 ### No need to specify a front or back
 
-- No need to specify a front or back
+Generate three (or more) cards per word.
 
 Note: I generate 3 cards per word. And we can kind of go through what
 it looks like when I use it.
@@ -529,9 +579,28 @@ _Niece_ : /niːs/
 
 !!!
 
-### Summary
+
+### What tools should I use?
+
+_SRS (Everything):_ Anki, Memrise
+
+_Speaking:_ Michel Thomas, Pimsleur, iTalki
+
+_Listening:_ Pimsleur, Audiobooks, YouTube
+
+_Writing:_ Self-journaling, Lang-8
+
+_Reading:_ Familiar, childhood books
 
 !!!
+
+### Resources
+
+- Fluent Forever, Gabriel Wyner
+- Mimic Method, Idahosa Ness
+
+!!!
+
 
 ### There's a more detailed method to language learning
 
@@ -550,7 +619,6 @@ _Niece_ : /niːs/
 - Consistency is key — learning is long, not hard
 - Focus on the common words
 - Learn pronunciation first
-- Pick the right tools for the job
 
 !!!
 
