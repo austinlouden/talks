@@ -1,31 +1,47 @@
-<!-- .slide: data-background="#2aa198" -->
+<!-- .slide: data-background="#2a6fa1" -->
 <!-- .slide: data-state="terminal" -->
 
 # How to Start Learning a Foreign Language 
 By <a href="http://austinlouden.com">Austin Louden</a> / <a href="https://www.pinterest.com/austinlouden/"><i class="fa fa-pinterest" aria-hidden="true"></i>austinlouden</a> / <a href="http://twitter.com/bkase_">@austinlouden</a> 
 
+
+Note: excited to tell you about one of my favorite things to do in free time,
+learning languages
+
 !!!
 
-### A process
+### What to take from this talk
 
-What tools should I use?
+- What tools should I use?
 <!-- .element: class="fragment" data-fragment-index="1" --> 
-How do I go from using those tools to having conversations?
+- How do I go from using those tools to having conversations?
 <!-- .element: class="fragment" data-fragment-index="2" -->
+
+Note: By the end of this talk, I want to help you answer two key questions
+when learning a language
+- there are a lot of tools beyond duolingo to help leaning. A lot are good
+at different things. I'll give some advice on which ones to use.
+- this is a very important question to answer, especially if you're
+staying in the US, and have no family or friends that speak the language
+you're trying to learn.
 
 !!!
 
-### When I started...
+### What we'll cover
 
-1. Duolingo, Rosetta Stone, etc.
-<!-- .element: class="fragment" data-fragment-index="1" -->
-2. ???
-<!-- .element: class="fragment" data-fragment-index="2" -->
-3. Fluency
-<!-- .element: class="fragment" data-fragment-index="3" -->
+1. Foundations
+<!-- .element: class="fragment" data-fragment-index="1" --> 
+2. Tools
+<!-- .element: class="fragment" data-fragment-index="2" --> 
 
-Note: assuming you can't live in a foreign country,
-or don't have any relatives that can help you
+Note: 
+- I'll start by talking about some foundations. These are ideas or
+premises that can help guide what stuff you choose study, and they
+heavily influence what I'll talk about in the next part.
+- Then, in the second part, I'll talk about specific tools or tactics
+that put those principles into practice.
+TRANSITION: but before we start, I'll give you a quick overview of
+my language-learning background.
 
 !!!
 
@@ -34,12 +50,17 @@ or don't have any relatives that can help you
 | Language | Time | Ability |
 | -------- | ------ | ----- |
 | Latin | 4 years | Terrible |
-| Italian | 1 year | Terrible |
+| Italian | 1 year | Meh |
 | Spanish | 6 months | OK (B1/B2) |
 | German | 4 months | Meh (A2) |
 | French | 3 months | OK (A2) |
 
-Note: I don't know if Latin has helped. Get to college, placed into Spanish 2, but I didn't take it bc 8am.
+Note: took 4 years of Latin in school. Was terrible. Took Italian in college
+and that didn't work out too well either.
+
+But I was still fascinated by people who could speak several languages
+fluently. So I decided to try Spanish. Ended up spending a month in 
+Barcelona where I only spoke Spanish.
 
 !!!
 
@@ -62,8 +83,21 @@ Note: If there's one thing that I've seen recent consensus about,
 in language learning books, blogs, etc. — it's that learning
 pronunciation is perhaps the most important. It's funny, because in
 school, this is probably the area where we place the least effort.
-I think more for reasons on scale and not for reasons of value.
-Easy to give exams about vocab. Easy to fill in the blank in Duolingo.
+- TRANSITION: I think this is more for reasons of scale and not for reasons of value.
+
+!!!
+
+### Scale vs. Value
+
+- easy for teachers to give tests about vocab, reading, and writing
+<!-- .element: class="fragment" data-fragment-index="1" --> 
+- easy for apps to test fill-in-the-blank vocab
+<!-- .element: class="fragment" data-fragment-index="2" --> 
+
+Note: 
+- easy for teachers to give exams about vocabulary, reading or writing
+- easy for apps to mostly give you fill in the blank vocab because testing
+pronunciation is hard
 
 !!!
 
@@ -77,30 +111,44 @@ Easy to give exams about vocab. Easy to fill in the blank in Duolingo.
 Note: At a higher level, there are two approaches to language learning.
 Most people, because it's the most convenient, or most
 available, learn the skillset of reading and writing
+TRANSITION: I think there are a lot of pitfalls to this approach.
 
 !!!
 
 ### Common pitfalls of learning by reading and writing
 
-- I know a lot of vocab, but native speakers speak too quickly for
-me to understand
-<!-- .element: class="fragment" data-fragment-index="1" -->
-- I can write well, but I can't speak
-<!-- .element: class="fragment" data-fragment-index="2" -->
-- Native speakers can't understand my accent
-<!-- .element: class="fragment" data-fragment-index="3" -->
-
-Note: 
-When you look at the problems people often say they have
+Note: When you look at the problems people often say they have
 when learning a language, the community has noticed that many
 of these can be traced back to an education that based mostly on
 reading and writing.
-- if you don't know a word by how it sounds, you will never
+
+!!!
+
+### Pitfall #1
+
+"I know a lot of vocab, but _native speakers speak too quickly for
+me to understand_"
+
+Note: if you don't know a word by how it sounds, you will never
 be fast enough to take the words you're hearing, imagine them in text
 form, and then map that to a translation in your brain. You need to go
 straight from sounds to meaning.
-- a lot of this comes from fear of mispronouncing things
-- this can come from reading a lot before you understand how to pronounce
+
+!!!
+
+### Pitfall #2
+
+"I can write well, but *I can't speak."*
+
+Note: a lot of this comes from fear of mispronouncing things
+
+!!!
+
+### Pitfall #3
+
+"Native speakers *can't understand my accent"*
+
+Note: this can come from reading a lot before you understand how to pronounce
 things. You voice the words in you're head and internalize wrong
 pronunciations. You're not learning French, you're learning a third
 language, that's somewhere between English and French, that only you
@@ -165,22 +213,42 @@ with the foundations in the first part, how do you put those into practice?
 2. start with sounds and pronunciation
 3. learn the most common words first
 
+TRANSITION:
+
 !!!
 
-### 4 Elements
+### When I started...
+
+1. Duolingo, Rosetta Stone, etc.
+<!-- .element: class="fragment" data-fragment-index="1" -->
+2. ???
+<!-- .element: class="fragment" data-fragment-index="2" -->
+3. Fluency
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+Note: 
+TRANSITION: I soon realized that different tools are good at
+different things.
+
+!!!
+
+### Different tools are good at different things
 
 - Speaking
 - Listening
 - Reading
 - Writing
 
-Note: Different tools are designed for different things. Don't expect one tool to take you from zero to proficiency.
+Note: Don't expect one tool to take you from zero to proficiency.
+TRANSITION: also there is one tool, or type of tool that's pretty good
+at listening, reading and writing, something called Spaced Repitition
+Software
 
 !!!
 
 ### Spaced-Repetition Software (SRS)
 
-(image)
+![Matrix](img/matrix.jpg)
 
 Note: the scene where neo is in the chair, then wakes up and says I KNOW KUNG FU
 SRS can be good for all four elements, and I can show you what I mean
@@ -188,35 +256,61 @@ by that later.
 
 !!!
 
+### SRS?
+
+![SRS](img/srs.png)
+
+Note: based on this idea by a German scientist, Sebastian Leitner
+So lernt man lernen (How to learn to learn)
+- basic principle is this. Imagine you have a series of boxes with flash
+cards in them. Each box you review at different intervals, so say the
+first box has cards you review every day.
+- if you get it right you move it to the next box, which you might
+review every other day and so on.
+- if you get something wrong, it goes all the way back to the beginning.
+
+!!!
+
 ### SRS Recommendations
 
-- Anki (https://apps.ankiweb.net/)
+Note: two recommendations, both are free.
+
+!!!
+
+
+# Anki
+
+- download decks or make your own
 <!-- .element: class="fragment" data-fragment-index="1" -->
-- Memrise (https://www.memrise.com/)
+- generate multiple cards based on a certain set of data
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
-Note: two recommendations, both are free.
-- Anki is the definitive app for serious language-learners. Download
-decks or make your own.
-- Memrise has a really polished mobile app and courses made by
-professionals. All their cards have audio (and most other deck have
-audio as well)
+Note: TRANSITION: I can tell you how I make my flash cards in Anki
 
 !!!
 
-### How to Make Good Flashcards
+### How to Make Anki Flash cards
 
 - No English! Use images instead
+<!-- .element: class="fragment" data-fragment-index="1" -->
 - 3 cards for every word
+<!-- .element: class="fragment" data-fragment-index="2" -->
 
-Note: the other huge benefit to Anki is that you can generate many different
+Note: 
+- there have been many studies about this, images trigger much more in
+the brain. There's also a good exercise from a book called Fluent Forever,
+which suggests you should find your examples on say, google.fr. Camion = semi
+- the other huge benefit to Anki is that you can generate many different
 flashcards with the same data.
-Spot the differences, Fluent Forever
+
+TRANSITION: mentioned that you could do generate multiple cards for a certain
+set of of data, so I usually generate 3, here's what they look like.
 
 !!!
 
-### Flash card data
+### 3 distinct cards
 
+Data:
 - French word
 - image
 - IPA
@@ -231,6 +325,18 @@ Spot the differences, Fluent Forever
 
 
 !!!
+
+### Memrise
+
+- Memrise 
+https://www.memrise.com/
+
+Note: Memrise has a really polished mobile app and courses made by
+professionals. All their cards have audio (and most other deck have
+audio as well)
+
+!!!
+
 
 ### Speaking
 
