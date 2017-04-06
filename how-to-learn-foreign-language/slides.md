@@ -699,62 +699,6 @@ Read a book you've already read before (childhood favorites)
 
 Note: listen the audiobook while you follow along
 
-TRANSITION: Now that I've given an overview of the strategy and tools
-that I think are the most useful
-
-!!!
-
-### All together now
-
-If I were to start learning a language tomorrow, what would I do?
-<!-- .element: class="fragment" data-fragment-index="1" -->
-!!!
-
-### Part 1
-
-1. Find a list of top ~1000 words
-<!-- .element: class="fragment" data-fragment-index="1" -->
-> https://fluent-forever.com/product/most-awesome-word-lists-ever-seen/
-<!-- .element: class="fragment" data-fragment-index="1" -->
-2. Make those into flash cards using Anki
-<!-- .element: class="fragment" data-fragment-index="2" -->
-> https://apps.ankiweb.net/
-<!-- .element: class="fragment" data-fragment-index="2" -->
-3. Learn pronunciation while making cards.
-<!-- .element: class="fragment" data-fragment-index="3" -->
-
-!!!
-
-### Part 2
-
-3. After learning ~300 words, start an audio course
-<!-- .element: class="fragment" data-fragment-index="1" -->
->http://www.michelthomas.com/
-<!-- .element: class="fragment" data-fragment-index="2" -->
->http://www.pimsleur.com/
-<!-- .element: class="fragment" data-fragment-index="2" -->
-4. Start the writing workflow
-<!-- .element: class="fragment" data-fragment-index="3" -->
->http://lang-8.com/
-<!-- .element: class="fragment" data-fragment-index="3" -->
-5. Start the reading workflow
-<!-- .element: class="fragment" data-fragment-index="4" -->
-
-Repeat for 3-6 months
-<!-- .element: class="fragment" data-fragment-index="5" -->
-
-!!!
-
-
-### Part 3
-
-Eventually, you have to talk to someone.
-
-
-Note: but hopefully by this point, you engaged in the language enough
-where it's not so hard.
-
-
 !!!
 
 ### What tools should I use?
@@ -763,7 +707,7 @@ _SRS (Everything):_ Anki, Memrise
 
 _Speaking:_ Michel Thomas, Pimsleur, iTalki
 
-_Listening:_ Pimsleur, Audible, iTalki
+_Listening:_ Forvo, Pimsleur, Audible, iTalki
 
 _Writing:_ Journaling, Lang-8
 
@@ -773,34 +717,94 @@ Note: here are all of the tools that I listed in the last section for
 reference. I also threw iTalki on there because I'm about to start using
 that.
 
-!!!
-
-### Resources
-
-- Fluent Forever, Gabriel Wyner
-- Mimic Method, Idahosa Ness
+TRANSITION: Now that I've given an overview of the strategy and tools
+that I think are the most useful
 
 !!!
 
 
-### There's a more detailed method to language learning
+### All together now
 
-1. Learn pronunciation
-2. Learn about 700 words with SRS
-3. Learn some basic grammar
-4. Learn to say or write simple things
-5. Have simple conversations with a native speakers
-6. Continue speaking, listening, learning vocabulary and grammar 
-7. Fluency?
+If I were to start learning a language tomorrow, what would I do?
+<!-- .element: class="fragment" data-fragment-index="1" -->
+!!!
+
+### Step 1
+
+- Find a list of top ~1000 words
+<!-- .element: class="fragment" data-fragment-index="1" -->
+> https://fluent-forever.com/product/most-awesome-word-lists-ever-seen/
+<!-- .element: class="fragment" data-fragment-index="1" -->
+- Make those into flash cards using Anki
+<!-- .element: class="fragment" data-fragment-index="2" -->
+> https://apps.ankiweb.net/
+<!-- .element: class="fragment" data-fragment-index="2" -->
+- Learn pronunciation while making cards.
+<!-- .element: class="fragment" data-fragment-index="3" -->
 
 !!!
 
-### Good things to remember
+### Step 2
 
-- Consistency is key — learning is long, not hard
-- Focus on the common words
-- Learn pronunciation first
+- After learning ~300 words, start an audio course
+<!-- .element: class="fragment" data-fragment-index="1" -->
+>http://www.michelthomas.com/
+<!-- .element: class="fragment" data-fragment-index="2" -->
+>http://www.pimsleur.com/
+<!-- .element: class="fragment" data-fragment-index="2" -->
+- Start the writing workflow
+<!-- .element: class="fragment" data-fragment-index="3" -->
+>http://lang-8.com/
+<!-- .element: class="fragment" data-fragment-index="3" -->
+- Start the reading workflow
+<!-- .element: class="fragment" data-fragment-index="4" -->
+- Repeat for 3-6 months
+<!-- .element: class="fragment" data-fragment-index="5" -->
 
 !!!
+
+
+### Part 3
+
+Eventually, you have to talk to someone.
+
+- iTalki
+> https://www.italki.com/
+<!-- .element: class="fragment" data-fragment-index="1" -->
+- Meetup.com 
+<!-- .element: class="fragment" data-fragment-index="2" -->
+- Conversation Exchange
+> https://www.conversationexchange.com/
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+Note: 
+- but hopefully by this point, you engaged in the language enough
+where it's not so hard.
+- I left this out of the tools section because I think this is more of
+a preference thing
+
+!!!
+
+### Questions?
+
+
+!!!
+
+### Helpful links
+
+- https://fluent-forever.com/
+- https://www.mimicmethod.com/
+- https://www.quora.com/How-do-I-quickly-and-efficiently-learn-a-new-language
+- https://forvo.com/
+- https://www.italki.com/home
+- https://apps.ankiweb.net/
+- https://www.memrise.com/
+- http://www.michelthomas.com/
+- http://www.pimsleur.com/
+
+!!!
+
+
 
 
