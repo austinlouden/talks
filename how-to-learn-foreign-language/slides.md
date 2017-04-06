@@ -74,8 +74,14 @@ talk about strategy
 ### Part One: Strategy
 
 Note: so, part one is strategy, part two is tactics.
+In the strategy section I'll talk about two big ideas that I see the
+language learning community gravitating towards.
 
-TRANSITION: There are two parts to the strategy. The first is...
+Then in the tactics part, I'll talk about specific tools you can use
+that are based on those ideas, and how I use them.
+
+TRANSITION: 
+So, the first idea is...
 
 !!!
 
@@ -294,21 +300,27 @@ of text that covers is on the Y axis.
 10 words a day * 365 days = 3,650 words
 ```
 
-Note: puts you somewhere between everything you could want to say 
+_~87% of all written text_
+<!-- .element: class="fragment" data-fragment-index="1" -->
+
+Note:
+- puts you somewhere between everything you could want to say 
 and a native speaker without higher education.
-But of course, there's more to langauge than vocab.
+- But of course, there's more to langauge than vocab, and it's not
+just the ability to recognize those words on a flashcard. 
+It's being able to produce those words like legos, and use them to 
+build sentences
+
+TRANSITION: So, that brings us to part 2, tactics.
 
 !!!
 
 ### Part Two: Tactics
 
-Note: second part of the talk, tools or tactics. So, if you agree
-with the foundations in the first part, how do you put those into practice?
 
-1. start with sounds and pronunciation
-2. learn the most common words first
-
-TRANSITION:
+TRANSITION: So, what is the process that we should take to finally
+having conversations in another language? And what tools should we
+use to get there?
 
 !!!
 
@@ -322,7 +334,8 @@ TRANSITION:
 <!-- .element: class="fragment" data-fragment-index="3" -->
 
 Note: 
-TRANSITION: I soon realized that different tools are good at
+TRANSITION: When I started, I had no idea.
+I soon realized that different tools are good at
 different things.
 
 !!!
@@ -549,36 +562,200 @@ more and more complicated sentences.
 
 ### Listening
 
-- Pimsleur
+Look for listening exercises where you can understand _about 80%_ of
+what's being said.
+
+Note: I say 80% because there's a certain point where you just tone out
+the langauage and don't really process anything. Because of that, I'd
+avoid watching television shows, or listening to normal radio until
+you get a bit better.
 
 !!!
 
+### Pimsleur
 
-### Minimal pairs
+![Pimsleur](img/pimsleur.jpg)
 
-z vs. s:
-_Knees_ : /niːz/
+Note: audio course by Paul Pimsleur, Pimsleur was a linguistics professor
+at several univerities
+
+!!!
+
+### Pimsleur Audio series
+
+1. Listen to a conversation between two native speakers.
 <!-- .element: class="fragment" data-fragment-index="1" -->
-_Niece_ : /niːs/
+2. The lesson explain specific parts of the conversation
 <!-- .element: class="fragment" data-fragment-index="2" -->
+3. Listen to the conversation again
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+Note: each lesson is around 30 minutes, and they all work the same way.
+1. usually you don't understand all of it
+2. often asks you to participate in it in slightly different ways
+3. once you hear the conversation again the end of the tape, you'll
+find you can understand almost all of it.
+
+TRANSITION: Another thing you can do to improve listening is to train your
+ear by listening to things called Minimal pairs.
+
+!!!
+
+### Minimal pair
+
+Two words that differ by only one syllable.
+
+_knees_
+<!-- .element: class="fragment" data-fragment-index="1" -->
+_niece_
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+knees = /niːz/
+<!-- .element: class="fragment" data-fragment-index="3" -->
+niece = /niːs/
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+Note: say you were learning English, and were having a difficult time
+telling the difference between the words knees and niece. 
+- Perhaps that sound that makes up the difference doesn't exist in your native language.
+- which is totally plausible, because different language are made up different sounds
+- take a look at the IPA spelling of each word, which you can always find on wicktionary,
+you'll notice that their different by the final syllable.
+
+TRANSITION: so you can actually make flashcards out of these differences,
+to learn the sounds in another language that you don't know
+
+!!!
+
+### Minimal pair flash cards
+
+![Minimal Pair Card](img/minimal_pair_card.png)
+
+>Source: Fluent Forever, https://fluent-forever.com/gallery/ear-training-flashcards/
 
 !!!
 
 ### Writing
 
-- journal
-- Lang-8 (http://lang-8.com/)
+The best way to practice is by _writing yourself_.
+
+Note: I think the best way to get better a writing is just by writing
+yourself, but there are some practices that can help you out here.
 
 !!!
 
+### Writing workflow
+
+1. Try to write a few sentences each day.
+<!-- .element: class="fragment" data-fragment-index="1" -->
+2. Make what you don't know into flash cards (words, grammar, etc.)
+<!-- .element: class="fragment" data-fragment-index="2" -->
+3. Submit your writing to Lang-8
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+Note: This is what my writing workflow is like.
+
+TRANSITION: So what is lang8?
+
+!!!
+
+### Lang-8
+
+![Lang8 Writing](img/lang8_writing.png)
+
+> Source: Lang-8, http://lang-8.com/
+
+Note: place where you can submit short snippings of writing
+that you do in a foreign language
+
+!!!
+
+### Corrections
+
+![Lang 8 Corrections](img/lang8_corrections.png)
+
+> Source: Lang-8, http://lang-8.com/
+
+Note: native speakers that are trying to learn English will submit
+corrections. And if you help people out, so say you find someones
+English submission and make corrections, then your submission goes to
+the top of the page that everyone sees
+
+!!!
 
 ### Reading
 
-- read a book you've already read before (childhood favorites)
-
+Read a book you've already read before (childhood favorites)
 
 !!!
 
+### Reading workflow
+
+1. Get both the book and the audiobook.
+<!-- .element: class="fragment" data-fragment-index="1" -->
+2. Put things that you don't know into flash cards
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+Note: listen the audiobook while you follow along
+
+TRANSITION: Now that I've given an overview of the strategy and tools
+that I think are the most useful
+
+!!!
+
+### All together now
+
+If I were to start learning a language tomorrow, what would I do?
+<!-- .element: class="fragment" data-fragment-index="1" -->
+!!!
+
+### Part 1
+
+1. Find a list of top ~1000 words
+<!-- .element: class="fragment" data-fragment-index="1" -->
+> https://fluent-forever.com/product/most-awesome-word-lists-ever-seen/
+<!-- .element: class="fragment" data-fragment-index="1" -->
+2. Make those into flash cards using Anki
+<!-- .element: class="fragment" data-fragment-index="2" -->
+> https://apps.ankiweb.net/
+<!-- .element: class="fragment" data-fragment-index="2" -->
+3. Learn pronunciation while making cards.
+<!-- .element: class="fragment" data-fragment-index="3" -->
+
+!!!
+
+### Part 2
+
+3. After learning ~300 words, start an audio course
+<!-- .element: class="fragment" data-fragment-index="1" -->
+>http://www.michelthomas.com/
+<!-- .element: class="fragment" data-fragment-index="2" -->
+>http://www.pimsleur.com/
+<!-- .element: class="fragment" data-fragment-index="2" -->
+4. Start the writing workflow
+<!-- .element: class="fragment" data-fragment-index="3" -->
+>http://lang-8.com/
+<!-- .element: class="fragment" data-fragment-index="3" -->
+5. Start the reading workflow
+<!-- .element: class="fragment" data-fragment-index="4" -->
+
+Repeat for 3-6 months
+<!-- .element: class="fragment" data-fragment-index="5" -->
+
+!!!
+
+
+### Part 3
+
+Eventually, you have to talk to someone.
+
+
+Note: but hopefully by this point, you engaged in the language enough
+where it's not so hard.
+
+
+!!!
 
 ### What tools should I use?
 
@@ -586,11 +763,15 @@ _SRS (Everything):_ Anki, Memrise
 
 _Speaking:_ Michel Thomas, Pimsleur, iTalki
 
-_Listening:_ Pimsleur, Audiobooks, YouTube
+_Listening:_ Pimsleur, Audible, iTalki
 
-_Writing:_ Self-journaling, Lang-8
+_Writing:_ Journaling, Lang-8
 
-_Reading:_ Familiar, childhood books
+_Reading:_ Audible
+
+Note: here are all of the tools that I listed in the last section for
+reference. I also threw iTalki on there because I'm about to start using
+that.
 
 !!!
 
