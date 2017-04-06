@@ -81,6 +81,7 @@ Then in the tactics part, I'll talk about specific tools you can use
 that are based on those ideas, and how I use them.
 
 TRANSITION: 
+TAKE A DRINK OF WATER
 So, the first idea is...
 
 !!!
@@ -107,6 +108,9 @@ Note:
 - easy for apps to mostly give you fill in the blank vocab because testing
 pronunciation is hard
 
+TRANSITON: at a higher level, these examples show two approaches to
+language learning.
+
 !!!
 
 ### Two approaches to learning
@@ -116,9 +120,9 @@ pronunciation is hard
 - Speaking and Listening
 <!-- .element: class="fragment" data-fragment-index="2" -->
 
-Note: At a higher level, there are two approaches to language learning.
-Most people, because it's the most convenient, or most
+Note: Most people, because it's the most convenient, or most
 available, learn the skillset of reading and writing
+
 TRANSITION: I think there are a lot of pitfalls to this approach.
 
 !!!
@@ -223,6 +227,7 @@ Note:
 
 TRANSITION: that covers the first of our strategy. I'd say there's one
 more that's equally important.
+TAKE A DRINK
 
 !!!
 
@@ -266,6 +271,8 @@ the 100 million word sample?
 Note: 
 1. these came from a variety of sources, including newspapers and magazines,
 books, movies, political speeches
+
+TRANSITION: so the results were really interesting
 
 !!!
 
@@ -317,9 +324,10 @@ TRANSITION: So, that brings us to part 2, tactics.
 
 ### Part Two: Tactics
 
-
-TRANSITION: So, what is the process that we should take to finally
-having conversations in another language? And what tools should we
+Note: 
+- So, what is the process that we should take to finally
+having conversations in another language? 
+- And what tools should we
 use to get there?
 
 !!!
@@ -375,7 +383,8 @@ review every other day and so on.
 
 ### SRS Recommendations
 
-Note: two recommendations, both are free.
+Note: two recommendations, both are free, both have web and mobile apps,
+and I've also used both extensively.
 
 !!!
 
@@ -407,6 +416,8 @@ so much time on them.
 for the first 500 to 1000 words. Later on you can learn words just like you do
   in English.
 
+TRANSITION: here are some general guidelines I have for making flash cards
+
 !!!
 
 ### Don't put English on your cards
@@ -428,7 +439,7 @@ _camion = "semi-truck, semi"_
 
 
 Note: 
-Two reason for this.
+Two reasons for this.
 - there have been many studies that have shown we're better at 
 remembering images than words because they make more connections within the brain. 
 This is even more so when we chose the image ourselves, if we're making our own cards
@@ -441,7 +452,10 @@ I didn't specify a front or back
 
 ### No need to specify a front or back
 
-Generate three (or more) cards per word.
+- input data once
+<!-- .element: class="fragment" data-fragment-index="1" -->
+- generate several cards from that data
+<!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note: I generate 3 cards per word. And we can kind of go through what
 it looks like when I use it.
@@ -501,7 +515,6 @@ Note: helps with listening
 
 ### Memrise
 
-- Memrise 
 https://www.memrise.com/
 
 ![Memrise profile](img/memrise_profile.png)
@@ -509,6 +522,9 @@ https://www.memrise.com/
 Note: Memrise has a really polished mobile app and courses made by
 professionals. All their cards have audio (and most other deck have
 audio as well)
+
+TRANSITION: that covers it for SRSs, now I can go through tools
+that I've found particularly useful for certain parts of language learning.
 
 !!!
 
@@ -764,16 +780,18 @@ If I were to start learning a language tomorrow, what would I do?
 !!!
 
 
-### Part 3
+### Step 3
 
 Eventually, you have to talk to someone.
 
 - iTalki
+<!-- .element: class="fragment" data-fragment-index="1" -->
 > https://www.italki.com/
 <!-- .element: class="fragment" data-fragment-index="1" -->
 - Meetup.com 
 <!-- .element: class="fragment" data-fragment-index="2" -->
 - Conversation Exchange
+<!-- .element: class="fragment" data-fragment-index="3" -->
 > https://www.conversationexchange.com/
 <!-- .element: class="fragment" data-fragment-index="3" -->
 
